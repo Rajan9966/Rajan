@@ -12,6 +12,7 @@ public class App
 		if(i>0){
 			 System.out.println( "Hello World! greater" );
 		}
+	else {
         System.out.println( "Hello World!" );
-    }
+}}
 }
