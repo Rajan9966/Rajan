@@ -1,0 +1,26 @@
+git clone repository URL - to clone the repository URL
+
+git add - to add untracked file in git
+
+git status - to check the status in git
+
+git commit -m " messege" - to commit the change to staging area
+
+git log - to check the git history
+
+git push origin branchname - to push the change local to repository
+
+git  branch name -to create new branch in git
+
+git branch -to check the branch list in git
+
+git checkout branchname - to switch to perticular branch
+
+git rm -rf - to delete any file / folder
+
+git push origin --delete branchname - to delete remote branch
+
+git merge -to combine the code
+git stash -to 
+
+git stash apply to 
