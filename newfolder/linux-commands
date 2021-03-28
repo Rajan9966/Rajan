@@ -1,0 +1,34 @@
+mkdir-to create folder
+    ex: mkdir test
+cd- to open the folder 
+    ex: cd test
+cd .. - one step back from current folder
+cd ../.. two steps back from current folder
+
+touch - to create file
+
+     ex: tocuh demo
+vi -to edit the file
+    ex: vi demo
+cat -to  display contents in file
+
+esc:q! - without saving quite the file
+
+esc:wq! - save and exit the file
+
+rm -rf - remove the file/folder
+        ex: rm -rf demo
+ls - to displays list the in folder/files
+
+ls -lart -to dispalys list in foldr/files with hidden files
+
+sudo su - login as root user
+
+pwd  - it shows current path
+
+chmod 777 - to give access( read write execute)
+
+w get - web get used to download files from web
+
+
+
