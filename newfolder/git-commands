@@ -21,4 +21,4 @@ git rm -rf - to delete any file / folder
 git push origin --delete branchname - to delete remote branch
 
 git merge -to combine the code
-
+git stash -to 
